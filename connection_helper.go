@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	p "gopkg.in/dancannon/gorethink.v1/ql2"
+	p "github.com/urbint/gorethink/ql2"
 )
 
 // Write 'data' to conn

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strings"
 
-	p "gopkg.in/dancannon/gorethink.v1/ql2"
+	p "github.com/urbint/gorethink/ql2"
 )
 
 var (
